@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "I am a student who is very passionate about learning new things. I like learning about biology, cancer and science! My hobbies are cooking, baking, reading, drawing, painting, eating and lots more",
+  bio: "I am a student who is very passionate about learning new things. I like learning about biology, cancer and science! My hobbies are cooking, baking, reading, drawing, painting, eating and lots more!",
 
   /*
   Optional photo:
