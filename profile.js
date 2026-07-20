@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "I am a student who is very passionate about learning new things. I like learning about biology, cancer and science! My hobbies are cooking, baking, reading, drawing, painting, eating and lots more!",
+  bio: "My name is Elaine Jiang. I am a student who is very passionate about learning new things!  I am drawn to biology, neuroscience and nature. My hobbies are cooking, baking, reading, drawing, painting, and eating. I hope to pursue a career where I can help other people by discovering ways to alleviate or cure diseases.Through the DREAM-High program, I want to learn more about tumor types and gene expressions that can lead to the development of cancer. I am also excited to strengthen my skills in data analysis and research! In biology, I am excited to explore how researchers can enhance our knowledge of genetics, rare diseases, and how collaboration can create new breakthroughs in science. I look forward to working and learning from everyone. I hope to be able to gain experience that will help me grow.",
 
   /*
   Optional photo:
