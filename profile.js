@@ -56,6 +56,10 @@ const studentProfile = {
     {
       title: "Breast Cancer Cell Lines, Cell Motility, and Gene Expression",
       url: "https://rpubs.com/elainejiang/1449993"
+    }, 
+    {
+      title: "Predictive modeling for cancer prognosis",
+      url: "https://rpubs.com/elainejiang/1451285"
     }
   ],
 
