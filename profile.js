@@ -70,7 +70,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "I will be creating a presentation discussing the origins of mechlorethamine. I will share how it was used in the medical world and the impacts it had on patients.",
+    description: "I will be creating a presentation about mechlorethamine. In the presentation I will be sharing the history, usages, mechanism, limitations and the importance of this agent.",
     url: "https://canva.link/hs8dbm5r5a4blsu"
   },
 
