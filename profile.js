@@ -58,7 +58,7 @@ const studentProfile = {
       url: "https://rpubs.com/elainejiang/1449993"
     }, 
     {
-      title: "Predictive modeling for cancer prognosis",
+      title: "Predictive Modeling for Cancer Prognosis",
       url: "https://rpubs.com/elainejiang/1451285"
     }
   ],
